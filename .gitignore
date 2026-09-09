@@ -1,0 +1,29 @@
+# Build outputs
+*.exe
+*.out
+*.obj
+*.o
+*.a
+*.so
+*.dll
+
+# Visual Studio Code local configuration
+.vscode/
+
+# CMake build directories and generated files
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Temporary and editor files
+*.tmp
+*.swp
+*.swo
+*~
+
+# Operating system files
+.DS_Store
+Thumbs.db
